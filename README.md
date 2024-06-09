@@ -1,1 +1,1 @@
-# NeetCode-150
+Solutions to the publicly available list of 150 DSA questions from NeetCode. Solutions are separated by category based on the default NeetCode roadmap, which is accesible at https://neetcode.io/roadmap
